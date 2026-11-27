@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+dist/
+test-output/
+.workbuddy/
+*.qoder.site
+/vibe_images/
+/processed_image_*.png
+.DS_Store
+Thumbs.db
